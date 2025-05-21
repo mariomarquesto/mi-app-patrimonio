@@ -56,15 +56,6 @@ mi-app-patrimonio/
 ├── package-lock.json
 └── README.md
 
-Cómo Ejecutar la Aplicación Localmente
-Para poner en marcha esta aplicación en tu máquina local, sigue estos pasos:
-
-Clona el repositorio (si aún no lo has hecho):
-
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio # Asegúrate de estar en la carpeta raíz del proyecto
-
-(Reemplaza https://github.com/tu-usuario/tu-repositorio.git con la URL real de tu repositorio).
 
 Instala las dependencias:
 
@@ -80,19 +71,4 @@ yarn start
 
 Esto abrirá la aplicación en tu navegador en http://localhost:3000.
 
-Despliegue
-Esta aplicación está diseñada para ser fácilmente desplegada en plataformas como Vercel o Netlify.
 
-Despliegue con Vercel (Recomendado)
-Asegúrate de que tu código esté en un repositorio de Git (GitHub, GitLab, Bitbucket).
-
-Ve a https://vercel.com/ y crea una cuenta o inicia sesión (preferiblemente con tu cuenta de GitHub).
-
-En el dashboard de Vercel, haz clic en "Add New..." -> "Project".
-
-Selecciona tu repositorio de Git. Vercel detectará automáticamente que es una aplicación React y configurará los ajustes de construcción.
-
-Haz clic en "Deploy". Vercel construirá y desplegará tu aplicación, proporcionándote una URL pública.
-
-Contacto
-Si tienes alguna pregunta o sugerencia, no dudes en contactar al desarrollador.
