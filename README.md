@@ -1,71 +1,98 @@
-# Getting Started with Create React App
+Inventario de Bienes Patrimoniales
+Esta aplicación React es una herramienta diseñada para gestionar y generar un inventario de bienes patrimoniales. Permite a los usuarios ingresar detalles sobre diferentes activos, incluyendo descripciones, códigos, vida útil y amortización anual, y luego generar una tabla con estos datos que puede ser exportada a un documento PDF con un formato específico.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Características
+Formulario de Ingreso de Datos: Interfaz intuitiva para introducir información detallada sobre cada bien.
 
-## Available Scripts
+Autocompletado Inteligente: Al escribir la descripción de un bien, la aplicación sugiere ítems existentes de una base de datos local (itemsData.json) y auto-rellena campos relacionados como Cuenta, Especie, Vida Útil y Amortización Anual.
 
-In the project directory, you can run:
+Generación de Tabla Dinámica: Los datos ingresados se añaden a una tabla en pantalla, permitiendo una visualización clara de todos los bienes registrados.
 
-### `npm start`
+Exportación a PDF: Capacidad de exportar la tabla de inventario a un documento PDF. El PDF incluye:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Título principal: "INVENTARIO DE BIENES" (centrado).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Subtítulo: "Contaduria General de la Provincia Departamento Patrimonial".
 
-### `npm test`
+Detalles del formulario: "Reparticion:", "Dependencia:", "Habitacion:", y "Motivo:" con sus respectivos valores (priorizando códigos numéricos sobre descripciones si ambos están presentes).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+"Descripción General" del formulario.
 
-### `npm run build`
+La tabla de bienes generada.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Orientación horizontal (landscape) del documento.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Diseño Responsivo: La aplicación está diseñada para ser utilizable en diferentes tamaños de pantalla.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Tecnologías Utilizadas
+React: Biblioteca de JavaScript para construir interfaces de usuario.
 
-### `npm run eject`
+HTML2Canvas: Biblioteca para tomar "capturas de pantalla" de elementos HTML y convertirlos en imágenes de lienzo.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+jsPDF: Biblioteca para generar documentos PDF en el lado del cliente.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+JavaScript (ES6+): Lógica de la aplicación.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+CSS: Estilos y diseño de la interfaz.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Estructura del Proyecto
+mi-app-patrimonio/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── Header.js
+│   │   ├── FilterForm.js
+│   │   ├── DataTable.js
+│   │   └── Footer.js
+│   ├── data/
+│   │   └── itemsData.json  <-- Base de datos local para autocompletado
+│   ├── App.js
+│   ├── App.css
+│   ├── FilterForm.css
+│   └── index.js
+├── .gitignore
+├── package.json
+├── package-lock.json
+└── README.md
 
-## Learn More
+Cómo Ejecutar la Aplicación Localmente
+Para poner en marcha esta aplicación en tu máquina local, sigue estos pasos:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Clona el repositorio (si aún no lo has hecho):
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+git clone https://github.com/tu-usuario/tu-repositorio.git
+cd tu-repositorio # Asegúrate de estar en la carpeta raíz del proyecto
 
-### Code Splitting
+(Reemplaza https://github.com/tu-usuario/tu-repositorio.git con la URL real de tu repositorio).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Instala las dependencias:
 
-### Analyzing the Bundle Size
+npm install
+# o si usas yarn
+yarn install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Inicia la aplicación:
 
-### Making a Progressive Web App
+npm start
+# o si usas yarn
+yarn start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Esto abrirá la aplicación en tu navegador en http://localhost:3000.
 
-### Advanced Configuration
+Despliegue
+Esta aplicación está diseñada para ser fácilmente desplegada en plataformas como Vercel o Netlify.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Despliegue con Vercel (Recomendado)
+Asegúrate de que tu código esté en un repositorio de Git (GitHub, GitLab, Bitbucket).
 
-### Deployment
+Ve a https://vercel.com/ y crea una cuenta o inicia sesión (preferiblemente con tu cuenta de GitHub).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+En el dashboard de Vercel, haz clic en "Add New..." -> "Project".
 
-### `npm run build` fails to minify
+Selecciona tu repositorio de Git. Vercel detectará automáticamente que es una aplicación React y configurará los ajustes de construcción.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# mi-app-patrimonio
+Haz clic en "Deploy". Vercel construirá y desplegará tu aplicación, proporcionándote una URL pública.
+
+Contacto
+Si tienes alguna pregunta o sugerencia, no dudes en contactar al desarrollador.
