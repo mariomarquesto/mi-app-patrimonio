@@ -1,0 +1,28 @@
+.data-table-container {
+  flex-grow: 1; /* Para que la tabla ocupe el espacio restante */
+  overflow: auto; /* Para scroll si hay muchos datos */
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  background-color: white;
+}
+
+.data-table-container table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.data-table-container th,
+.data-table-container td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+  white-space: nowrap; /* Evita que el texto se divida en varias líneas */
+}
+
+.data-table-container th {
+  background-color: #eee;
+}
+
+.data-table-container tr:nth-child(even) {
+  background-color: #f9f9f9;
+}

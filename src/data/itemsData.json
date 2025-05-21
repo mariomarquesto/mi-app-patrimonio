@@ -1,0 +1,9275 @@
+[
+ {
+  "Cuenta": 431,
+  "Especie": 1,
+  "Descripcion": "Rotoenfardadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 2,
+  "Descripcion": "Adobedadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 3,
+  "Descripcion": "Apisonadora- compactadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 4,
+  "Descripcion": "Aplanadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 5,
+  "Descripcion": "Arenadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 13,
+  "Descripcion": "Clasificadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 14,
+  "Descripcion": "Hormigonera",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 15,
+  "Descripcion": "Cosechadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 16,
+  "Descripcion": "Incubadoras - aves y otras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 18,
+  "Descripcion": "Machimbradoras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 20,
+  "Descripcion": "Mezcladoras - asfalto",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 21,
+  "Descripcion": "Guadañadora de arrastre",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 22,
+  "Descripcion": "Mezcladoras de granos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 23,
+  "Descripcion": "Electrobomba Industrial",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 24,
+  "Descripcion": "Motocompresor",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 25,
+  "Descripcion": "Niveladora de Arrastre",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 26,
+  "Descripcion": "Ordeñadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 27,
+  "Descripcion": "Pala mecanica",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 28,
+  "Descripcion": "Pavimentadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 29,
+  "Descripcion": "Rastra",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 30,
+  "Descripcion": "Rellenadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 32,
+  "Descripcion": "Rodillo neumatico",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 33,
+  "Descripcion": "Rodillo pata de cabra",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 34,
+  "Descripcion": "Rodillo vibrante liso",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 35,
+  "Descripcion": "Secadora de granos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 36,
+  "Descripcion": "Segadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 37,
+  "Descripcion": "Sembradora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 40,
+  "Descripcion": "Trilladora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 41,
+  "Descripcion": "Vulcanizadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 42,
+  "Descripcion": "Zanjadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 43,
+  "Descripcion": "Amasadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 44,
+  "Descripcion": "Sobadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 45,
+  "Descripcion": "Ralladora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 46,
+  "Descripcion": "Bobinadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 47,
+  "Descripcion": "Moledor",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 48,
+  "Descripcion": "Molino",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 49,
+  "Descripcion": "Telar",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 50,
+  "Descripcion": "Pelador de aves - otras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 51,
+  "Descripcion": "Camara de frio industrial",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 52,
+  "Descripcion": "Campanas criadoras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 53,
+  "Descripcion": "Surcador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 54,
+  "Descripcion": "Barredora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 55,
+  "Descripcion": "Deposito de Asfalto",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 56,
+  "Descripcion": "Barrenadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 57,
+  "Descripcion": "Dosobstructor",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 58,
+  "Descripcion": "Embutidora para metal",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 59,
+  "Descripcion": "Fabrica de Mosaico",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 60,
+  "Descripcion": "Maquina de Plantar papas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 61,
+  "Descripcion": "Mezcladoras: Cementos y Otras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 62,
+  "Descripcion": "Transplantadoras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 63,
+  "Descripcion": "Distribuidoras de Aridos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 64,
+  "Descripcion": "Arados",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 65,
+  "Descripcion": "Brazo hidraulico",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 66,
+  "Descripcion": "Motocultivadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 67,
+  "Descripcion": "Motocortador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 68,
+  "Descripcion": "Desterronadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 69,
+  "Descripcion": "Procesador de azucar",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 70,
+  "Descripcion": "Maquina estirar alambres",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 71,
+  "Descripcion": "Motopulverizadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 72,
+  "Descripcion": "Planta clasificadora de aridos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 73,
+  "Descripcion": "Tiernizadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 74,
+  "Descripcion": "Maquina fabricar bolsas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 75,
+  "Descripcion": "Moledora de granos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 76,
+  "Descripcion": "Tamizadora de pulpa y otras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 77,
+  "Descripcion": "Destrozadora - trituradora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 78,
+  "Descripcion": "Maquina atadura doble",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 79,
+  "Descripcion": "Maquina extractora de Miel",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 80,
+  "Descripcion": "Desoperculador p\/extrac Miel",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 81,
+  "Descripcion": "Bandeja o Banco decantador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 82,
+  "Descripcion": "Caja madera y cuadro Doolite",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 83,
+  "Descripcion": "Maquina Cerradora de bolsas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 84,
+  "Descripcion": "Chimango",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 85,
+  "Descripcion": "Maquina Hoyadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 86,
+  "Descripcion": "Maquina para hacer ravioles",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 87,
+  "Descripcion": "Tocinera Manual",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 88,
+  "Descripcion": "Maquina aparadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 89,
+  "Descripcion": "Termoestampadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 90,
+  "Descripcion": "Bombo hojalatero",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 91,
+  "Descripcion": "Bulldoxcer",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 92,
+  "Descripcion": "Escabadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 93,
+  "Descripcion": "Desmalezadora de arrastre",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 94,
+  "Descripcion": "Retroescabadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 95,
+  "Descripcion": "Topadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 96,
+  "Descripcion": "Trapiche",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 97,
+  "Descripcion": "Enfardadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 98,
+  "Descripcion": "Fraccionadoras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 99,
+  "Descripcion": "Embutidora para chasinados",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 100,
+  "Descripcion": "Comederos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 101,
+  "Descripcion": "Sistema de riego",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 102,
+  "Descripcion": "pasteurizador de leche",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 103,
+  "Descripcion": "Cribas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 104,
+  "Descripcion": "Germinador de semillas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 105,
+  "Descripcion": "Equipo demarcacion vial",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 106,
+  "Descripcion": "Grilla para Aridos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 431,
+  "Especie": 107,
+  "Descripcion": "GRANIZADORA DE HIELO",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 1,
+  "Descripcion": "Acoplado",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 2,
+  "Descripcion": "Autobomba",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 3,
+  "Descripcion": "Automoviles",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 4,
+  "Descripcion": "Avion",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 5,
+  "Descripcion": "Avionetas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 6,
+  "Descripcion": "Balsa",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 7,
+  "Descripcion": "Barco",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 8,
+  "Descripcion": "Bicicleta",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 9,
+  "Descripcion": "Bote",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 10,
+  "Descripcion": "Camion",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 11,
+  "Descripcion": "Camioneta",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 12,
+  "Descripcion": "Canoa",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 13,
+  "Descripcion": "Casilla rodante",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 14,
+  "Descripcion": "Furgon",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 15,
+  "Descripcion": "Helicoptero",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 16,
+  "Descripcion": "Jeep",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 17,
+  "Descripcion": "Lancha",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 18,
+  "Descripcion": "Motocicletas de todo tipo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 19,
+  "Descripcion": "Planeadores",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 20,
+  "Descripcion": "Remolcadores",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 21,
+  "Descripcion": "Rurales",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 22,
+  "Descripcion": "Trafic - minibus",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 23,
+  "Descripcion": "Trailer",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 24,
+  "Descripcion": "Gomon",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 25,
+  "Descripcion": "Guinche",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 26,
+  "Descripcion": "Carro Aguatero, Combustibles y Otros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 27,
+  "Descripcion": "Carreton",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 28,
+  "Descripcion": "Dragas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 29,
+  "Descripcion": "Samping",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 31,
+  "Descripcion": "Cargadora",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 32,
+  "Descripcion": "Carro cañero",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 33,
+  "Descripcion": "Cargadora de cañas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 35,
+  "Descripcion": "Grua - Pluma",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 38,
+  "Descripcion": "Montacarga",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 39,
+  "Descripcion": "Motoniveladora",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 42,
+  "Descripcion": "Tractor",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 43,
+  "Descripcion": "Equipo completo para ascensor",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 44,
+  "Descripcion": "Muelle Flotante",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 45,
+  "Descripcion": "Omnibus",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 46,
+  "Descripcion": "Zorras hidraulicas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 47,
+  "Descripcion": "Carro transportador",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 48,
+  "Descripcion": "Cintas transportadoras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 49,
+  "Descripcion": "Elevadores varios (hidr., neuma., mec.)",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 50,
+  "Descripcion": "Elevadora rollo alfalfa",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 51,
+  "Descripcion": "Puentes gruas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 52,
+  "Descripcion": "Caja Compactadora",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 53,
+  "Descripcion": "Drone",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 54,
+  "Descripcion": "Semiremolque",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 55,
+  "Descripcion": "Volquete",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 56,
+  "Descripcion": "CAMILLA VOLCABLE",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 432,
+  "Especie": 57,
+  "Descripcion": "CAMILLA PARA MECANICO",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 1,
+  "Descripcion": "Agitador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 2,
+  "Descripcion": "Analizador de gases",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 3,
+  "Descripcion": "Aparatos de rayos X",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 4,
+  "Descripcion": "Autoclave",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 5,
+  "Descripcion": "Balanzas de todo tipo presicion y laboratorio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 6,
+  "Descripcion": "Bandejas de instrumentos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 7,
+  "Descripcion": "Batidor",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 10,
+  "Descripcion": "Bomba de cobalto y otras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 12,
+  "Descripcion": "Caja de acero",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 13,
+  "Descripcion": "Calcimetro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 14,
+  "Descripcion": "Camara de frio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 15,
+  "Descripcion": "Camaras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 16,
+  "Descripcion": "Camas ortopedicas y otras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 17,
+  "Descripcion": "Campana extractor de gases",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 18,
+  "Descripcion": "Cardioscopios",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 19,
+  "Descripcion": "Caza esporas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 20,
+  "Descripcion": "Centrifugador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 21,
+  "Descripcion": "Cizalla de uso medico",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 22,
+  "Descripcion": "Chasis y pantalla radiografica",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 23,
+  "Descripcion": "Conductimetro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 24,
+  "Descripcion": "Flebo extractor",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 25,
+  "Descripcion": "Cubeta riñonera",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 26,
+  "Descripcion": "Micrometro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 27,
+  "Descripcion": "Cuenta hilo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 28,
+  "Descripcion": "Destilador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 29,
+  "Descripcion": "Detector de latidos y otros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 30,
+  "Descripcion": "Dializadores",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 33,
+  "Descripcion": "Dispersor",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 34,
+  "Descripcion": "Electro bisturi",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 35,
+  "Descripcion": "Equipo de Clark y de todo tipo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 38,
+  "Descripcion": "Espectometro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 39,
+  "Descripcion": "Espectroscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 41,
+  "Descripcion": "Impedancimetro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 43,
+  "Descripcion": "Equipo de urodinamia",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 44,
+  "Descripcion": "Estufa para esterilizar y otras uso lab.",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 45,
+  "Descripcion": "Humificador de oxigeno",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 47,
+  "Descripcion": "Fotocolorimetro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 48,
+  "Descripcion": "Fotometro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 49,
+  "Descripcion": "Fuentes de poder",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 50,
+  "Descripcion": "Oximetro de pulso",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 51,
+  "Descripcion": "Equipo de urologia y otros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 52,
+  "Descripcion": "Hervidor",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 53,
+  "Descripcion": "Homogeinizador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 54,
+  "Descripcion": "Hornos electricos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 55,
+  "Descripcion": "Humerimetro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 56,
+  "Descripcion": "Incubadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 57,
+  "Descripcion": "Transductor convecto",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 58,
+  "Descripcion": "Juego sacabocados",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 59,
+  "Descripcion": "Lanza pulverizadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 60,
+  "Descripcion": "Laringoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 61,
+  "Descripcion": "Liofilizador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 62,
+  "Descripcion": "Mango de Cuton y otros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 63,
+  "Descripcion": "Mantos calefactores",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 64,
+  "Descripcion": "Artroscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 65,
+  "Descripcion": "Tabla de inmovilizar",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 66,
+  "Descripcion": "Molino",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 67,
+  "Descripcion": "Mufla",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 68,
+  "Descripcion": "Negatoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 69,
+  "Descripcion": "Oftalmoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 70,
+  "Descripcion": "Estereoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 71,
+  "Descripcion": "Paila",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 72,
+  "Descripcion": "Peachimetro (phmetro)",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 73,
+  "Descripcion": "Penetrometro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 74,
+  "Descripcion": "Aspiro compresor",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 75,
+  "Descripcion": "Equipo otoemisioines acusticas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 76,
+  "Descripcion": "Unidad de calentamiento Bair Hugger",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 77,
+  "Descripcion": "Pulmotor",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 78,
+  "Descripcion": "Instrum. Med. Varios",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 79,
+  "Descripcion": "Soportes varios",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 80,
+  "Descripcion": "Contador Neumatologicos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 81,
+  "Descripcion": "Micropipetas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 82,
+  "Descripcion": "Colchon termico c\/equipo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 83,
+  "Descripcion": "Aspiradores",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 84,
+  "Descripcion": "Equipo de magnetoterapia",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 85,
+  "Descripcion": "Evaporadores",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 86,
+  "Descripcion": "Tomografo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 87,
+  "Descripcion": "Sudadores p\/discapacitados",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 88,
+  "Descripcion": "Trampa caza esporas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 89,
+  "Descripcion": "Trepano de Hudson",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 90,
+  "Descripcion": "Tubo de oxigeno",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 91,
+  "Descripcion": "Tubo de nitrogeno",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 92,
+  "Descripcion": "Eq. Med. Y Lab. Varios",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 93,
+  "Descripcion": "Monitor de Latidos fetal y otros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 94,
+  "Descripcion": "Vibrocultivador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 95,
+  "Descripcion": "Camilla",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 96,
+  "Descripcion": "Nebulizador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 97,
+  "Descripcion": "Oxicapmografo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 98,
+  "Descripcion": "Baño maria - Ultrasonico",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 99,
+  "Descripcion": "Audiometro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 100,
+  "Descripcion": "Cascallador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 101,
+  "Descripcion": "Caudalimetro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 102,
+  "Descripcion": "Sensores",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 103,
+  "Descripcion": "Cofimetros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 104,
+  "Descripcion": "Columna Mercurial y Otros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 105,
+  "Descripcion": "Medidores distintos tipos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 106,
+  "Descripcion": "Barografos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 107,
+  "Descripcion": "Endocamara p\/ rino laringo faringo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 108,
+  "Descripcion": "Mestreador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 109,
+  "Descripcion": "Mortero",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 110,
+  "Descripcion": "Prensa Ensayo y otras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 111,
+  "Descripcion": "Prisma distintos tipos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 112,
+  "Descripcion": "Reactor Hach",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 114,
+  "Descripcion": "Torno dental y otros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 115,
+  "Descripcion": "Altimetro a camara de presion",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 116,
+  "Descripcion": "Desfibrilador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 117,
+  "Descripcion": "Episcopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 118,
+  "Descripcion": "Decodificador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 119,
+  "Descripcion": "Teleobjetivo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 120,
+  "Descripcion": "Tonometro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 121,
+  "Descripcion": "Autoanalizador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 123,
+  "Descripcion": "Tensiometro a mercurio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 125,
+  "Descripcion": "Agustinoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 126,
+  "Descripcion": "Alcohometros y otros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 128,
+  "Descripcion": "Alineador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 130,
+  "Descripcion": "Alterador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 131,
+  "Descripcion": "Amalgamador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 132,
+  "Descripcion": "Amigdalotomo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 133,
+  "Descripcion": "Amnioscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 134,
+  "Descripcion": "Anoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 136,
+  "Descripcion": "Aparato relax",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 137,
+  "Descripcion": "Apoya brazos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 138,
+  "Descripcion": "Apoya menton",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 142,
+  "Descripcion": "Audio estimulador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 143,
+  "Descripcion": "Baños de todo tipo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 146,
+  "Descripcion": "Bayonetas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 147,
+  "Descripcion": "Bidestilador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 148,
+  "Descripcion": "Bilirubinometro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 149,
+  "Descripcion": "Blefarostato",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 155,
+  "Descripcion": "Calcoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 156,
+  "Descripcion": "Cardiotocografo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 157,
+  "Descripcion": "Cardiotocometro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 158,
+  "Descripcion": "Calotas - Ampollas- Tubos Rayos x - Tomagrofaos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 159,
+  "Descripcion": "Cardiografo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 162,
+  "Descripcion": "Carpa de oxigeno",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 163,
+  "Descripcion": "Cardioversor",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 164,
+  "Descripcion": "Carrito todo tipo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 165,
+  "Descripcion": "Catre colerico",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 166,
+  "Descripcion": "Central de monitoreo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 167,
+  "Descripcion": "Chaleco de plomo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 173,
+  "Descripcion": "Cuadro optico",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 175,
+  "Descripcion": "Cunas de todo tipo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 177,
+  "Descripcion": "Dactiloscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 178,
+  "Descripcion": "Decoladores",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 180,
+  "Descripcion": "Dopplers",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 181,
+  "Descripcion": "Dosificadores",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 182,
+  "Descripcion": "Duodenoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 183,
+  "Descripcion": "Ecografo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 185,
+  "Descripcion": "Endoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 186,
+  "Descripcion": "Juego varios de laboratorio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 187,
+  "Descripcion": "Lamparas de distintos tipos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 189,
+  "Descripcion": "Laparoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 191,
+  "Descripcion": "Lavador - Secamanos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 196,
+  "Descripcion": "Mamografo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 204,
+  "Descripcion": "Mesa de cirugia y otras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 205,
+  "Descripcion": "Mezcladora varias",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 206,
+  "Descripcion": "Microequipos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 207,
+  "Descripcion": "Muñecos para adultos y otros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 208,
+  "Descripcion": "Muletas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 209,
+  "Descripcion": "Oftalmometro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 210,
+  "Descripcion": "Otoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 216,
+  "Descripcion": "Resucitador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 218,
+  "Descripcion": "Reanimador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 221,
+  "Descripcion": "Respirador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 222,
+  "Descripcion": "Set de cirugia",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 223,
+  "Descripcion": "Sillas colericas y otras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 224,
+  "Descripcion": "Sillon odontologico y otros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 229,
+  "Descripcion": "Tipo de corset y otros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 232,
+  "Descripcion": "Ultrasonido",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 234,
+  "Descripcion": "Vaporizador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 238,
+  "Descripcion": "Cistoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 239,
+  "Descripcion": "Colimador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 242,
+  "Descripcion": "Contrangulo todo tipo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 243,
+  "Descripcion": "Cortadores de todo tipo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 244,
+  "Descripcion": "Cubas todo tipo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 245,
+  "Descripcion": "Microscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 248,
+  "Descripcion": "Electro medicion Ph",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 249,
+  "Descripcion": "Espectofotometro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 250,
+  "Descripcion": "Epidiscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 253,
+  "Descripcion": "Linnigrafo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 255,
+  "Descripcion": "Electrocardiografo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 256,
+  "Descripcion": "Electrocauterizador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 257,
+  "Descripcion": "Electrocoagulador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 258,
+  "Descripcion": "Electroencefalograma",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 259,
+  "Descripcion": "Electroincubadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 260,
+  "Descripcion": "Electroshock",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 261,
+  "Descripcion": "Electrosueño",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 262,
+  "Descripcion": "Esofagoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 267,
+  "Descripcion": "Estractor de todo tipo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 270,
+  "Descripcion": "Frontoluz",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 276,
+  "Descripcion": "Pediometro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 279,
+  "Descripcion": "Secadores todo tipo de Laboratorio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 280,
+  "Descripcion": "Amplibox",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 281,
+  "Descripcion": "Enterotomo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 282,
+  "Descripcion": "Costotomo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 283,
+  "Descripcion": "Martillo de percusion y otros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 284,
+  "Descripcion": "Visuscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 285,
+  "Descripcion": "Eutiscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 289,
+  "Descripcion": "Expresor de Cristalino",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 292,
+  "Descripcion": "Campimetro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 293,
+  "Descripcion": "Cuadro de optotipos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 294,
+  "Descripcion": "Retinoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 295,
+  "Descripcion": "Frascos Finocchieto y otros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 296,
+  "Descripcion": "Capnografos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 297,
+  "Descripcion": "Microtomo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 298,
+  "Descripcion": "Criostato",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 299,
+  "Descripcion": "Dermatomo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 304,
+  "Descripcion": "Nefroscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 305,
+  "Descripcion": "Rectoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 306,
+  "Descripcion": "Histerometro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 307,
+  "Descripcion": "Policardiografo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 308,
+  "Descripcion": "Laringoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 309,
+  "Descripcion": "Esofagastroduodenoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 310,
+  "Descripcion": "Colonoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 311,
+  "Descripcion": "Fiogimetro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 312,
+  "Descripcion": "Termohumidificador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 313,
+  "Descripcion": "Histerolabo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 314,
+  "Descripcion": "Tirabuzon",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 317,
+  "Descripcion": "Implamtador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 321,
+  "Descripcion": "Pantoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 322,
+  "Descripcion": "Porta sueros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 323,
+  "Descripcion": "Faux Droite guadaña",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 324,
+  "Descripcion": "Adenotomo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 325,
+  "Descripcion": "Harmman",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 326,
+  "Descripcion": "Lumper",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 327,
+  "Descripcion": "Autoestatico",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 330,
+  "Descripcion": "Porta amalgama",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 332,
+  "Descripcion": "Osmometro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 333,
+  "Descripcion": "Cuenta colonia",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 334,
+  "Descripcion": "Intensificador de imagenes (RX)",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 336,
+  "Descripcion": "Trocar puncion torax",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 337,
+  "Descripcion": "Periotomo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 339,
+  "Descripcion": "Randall de mirizzi",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 340,
+  "Descripcion": "Luminoterapia",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 346,
+  "Descripcion": "Anoscopio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 347,
+  "Descripcion": "Glucometro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 348,
+  "Descripcion": "Forcora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 351,
+  "Descripcion": "Vectocardiografo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 352,
+  "Descripcion": "Proyector laminas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 354,
+  "Descripcion": "Cuchillo de amputacion - Sierras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 355,
+  "Descripcion": "Impector",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 358,
+  "Descripcion": "Maquina para cortar gasas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 360,
+  "Descripcion": "Eriscifago",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 361,
+  "Descripcion": "Fotosfera",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 362,
+  "Descripcion": "Lentes gonosceopia y otros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 363,
+  "Descripcion": "Inspirometro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 364,
+  "Descripcion": "Sarfino",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 365,
+  "Descripcion": "Equipo de fisiatria",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 366,
+  "Descripcion": "Descoperculador p\/estimulacion",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 367,
+  "Descripcion": "Rampa manual p\/acceso silla ruedas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 368,
+  "Descripcion": "Bipedestador infantil",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 369,
+  "Descripcion": "Analizador de Leche",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 370,
+  "Descripcion": "Termo para conservar semen",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 371,
+  "Descripcion": "Cuenta colonias",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 372,
+  "Descripcion": "Desecador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 373,
+  "Descripcion": "cabina de Biosseguridasd p\/medicamentos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 374,
+  "Descripcion": "Refrigerador para laboratorio",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 375,
+  "Descripcion": "Holter",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 376,
+  "Descripcion": "Procesador de tejidos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 377,
+  "Descripcion": "Colchón Ignifugo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 378,
+  "Descripcion": "Carro de Paro Cardiaco",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 379,
+  "Descripcion": "MONITOR MULTIPARAMETRICO",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 433,
+  "Especie": 380,
+  "Descripcion": "SANITIZANTE DE PIE",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 1,
+  "Descripcion": "Alto parlante",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 3,
+  "Descripcion": "Centrales telefonicas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 4,
+  "Descripcion": "Commutador",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 5,
+  "Descripcion": "Consolas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 6,
+  "Descripcion": "Fonografo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 7,
+  "Descripcion": "Handys",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 8,
+  "Descripcion": "Intercomunicadores",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 9,
+  "Descripcion": "Telegrafos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 10,
+  "Descripcion": "Telefonos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 11,
+  "Descripcion": "Teletipos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 12,
+  "Descripcion": "equipo television",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 13,
+  "Descripcion": "Transceptores",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 15,
+  "Descripcion": "Wolkman",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 16,
+  "Descripcion": "Radios",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 17,
+  "Descripcion": "Kit energia",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 18,
+  "Descripcion": "Montaje de radiacion - Censor",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 19,
+  "Descripcion": "Caja sistema micropoposito",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 20,
+  "Descripcion": "Modem - Fax",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 21,
+  "Descripcion": "Agenda electronica",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 22,
+  "Descripcion": "Equipo multifuncion",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 26,
+  "Descripcion": "Navegador Satelital",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 28,
+  "Descripcion": "Torres de transmision",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 29,
+  "Descripcion": "Equipos señalizacion",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 30,
+  "Descripcion": "Boyas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 31,
+  "Descripcion": "Balizas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 32,
+  "Descripcion": "Antenas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 33,
+  "Descripcion": "Ecozondas",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 34,
+  "Descripcion": "Pantallas solar",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 35,
+  "Descripcion": "Bloqueador",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 36,
+  "Descripcion": "Receptores",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 37,
+  "Descripcion": "Transmisores",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 38,
+  "Descripcion": "GPS",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 41,
+  "Descripcion": "Megafono",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 42,
+  "Descripcion": "Conversor",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 43,
+  "Descripcion": "celular",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 44,
+  "Descripcion": "Adaptadores para telefonia",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 45,
+  "Descripcion": "Cluster",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 46,
+  "Descripcion": "Portero con visor",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 47,
+  "Descripcion": "Auriculares aviacion",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 48,
+  "Descripcion": "Sistema de Video Conferencia",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 49,
+  "Descripcion": "ESTACION REPETIDORA",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 50,
+  "Descripcion": "Equipo Xaver - Radar",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 51,
+  "Descripcion": "CENTRAL DE ALARMAS",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 434,
+  "Especie": 52,
+  "Descripcion": "CARTEL LUMINOSO - MARQUESINA",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 1,
+  "Descripcion": "Bala",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 2,
+  "Descripcion": "Barras paralelas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 3,
+  "Descripcion": "Cajon para salto",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 4,
+  "Descripcion": "Colchonetas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 5,
+  "Descripcion": "Discos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 6,
+  "Descripcion": "Garrocha",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 7,
+  "Descripcion": "Jabalina",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 8,
+  "Descripcion": "Martillo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 9,
+  "Descripcion": "Pelotas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 10,
+  "Descripcion": "Redes",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 11,
+  "Descripcion": "Saltometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 12,
+  "Descripcion": "Tablero de Basquet",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 13,
+  "Descripcion": "Calesita",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 14,
+  "Descripcion": "Columpios",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 15,
+  "Descripcion": "Toboganes",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 16,
+  "Descripcion": "Sube y baja",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 18,
+  "Descripcion": "Escudos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 19,
+  "Descripcion": "Armonica",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 20,
+  "Descripcion": "Arpa",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 21,
+  "Descripcion": "Bajo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 22,
+  "Descripcion": "Bateria",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 23,
+  "Descripcion": "Castañuelas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 24,
+  "Descripcion": "Clarinete",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 25,
+  "Descripcion": "Contrabajo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 26,
+  "Descripcion": "Corneta",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 27,
+  "Descripcion": "Corno",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 28,
+  "Descripcion": "Flauta",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 29,
+  "Descripcion": "Guitarra",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 30,
+  "Descripcion": "Oboe",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 31,
+  "Descripcion": "Organo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 32,
+  "Descripcion": "Pandereta",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 33,
+  "Descripcion": "Piano",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 34,
+  "Descripcion": "Pianolas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 35,
+  "Descripcion": "Quena",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 36,
+  "Descripcion": "Redoblante",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 37,
+  "Descripcion": "Saxo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 38,
+  "Descripcion": "Tambor",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 39,
+  "Descripcion": "Triangulo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 40,
+  "Descripcion": "Trombon",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 41,
+  "Descripcion": "Tuba",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 42,
+  "Descripcion": "Violin",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 43,
+  "Descripcion": "Violonchelo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 44,
+  "Descripcion": "Timbales",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 45,
+  "Descripcion": "Banjo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 46,
+  "Descripcion": "Amplif. mezcladora - ecualizador",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 47,
+  "Descripcion": "Audifonos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 48,
+  "Descripcion": "Auriculares",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 49,
+  "Descripcion": "Camaras Electronicas - Filmadoras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 50,
+  "Descripcion": "Camaras fotograficas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 51,
+  "Descripcion": "Grabadores - Casseteras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 52,
+  "Descripcion": "Minicomponentes",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 53,
+  "Descripcion": "Proyector",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 54,
+  "Descripcion": "Televisores",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 55,
+  "Descripcion": "Microfonos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 56,
+  "Descripcion": "Pupitres",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 57,
+  "Descripcion": "Silla tipo escolar",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 58,
+  "Descripcion": "Mesa tipo escolar",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 59,
+  "Descripcion": "Mesa para jardin de infante",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 60,
+  "Descripcion": "Silla para jardin de infante",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 61,
+  "Descripcion": "Secador de peliculas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 62,
+  "Descripcion": "Videoreproductor",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 63,
+  "Descripcion": "Antorcha",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 64,
+  "Descripcion": "Arco",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 65,
+  "Descripcion": "Bastones",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 66,
+  "Descripcion": "Bate",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 67,
+  "Descripcion": "Bicicleta Fija",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 68,
+  "Descripcion": "Caños",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 69,
+  "Descripcion": "Pesas p\/gimnasia",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 70,
+  "Descripcion": "Carpa",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 71,
+  "Descripcion": "Cestos de Basket",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 72,
+  "Descripcion": "Trampolin",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 73,
+  "Descripcion": "Tribuna portatiles",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 74,
+  "Descripcion": "Pantalla video",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 75,
+  "Descripcion": "Viga para ejercicios",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 76,
+  "Descripcion": "Paleta",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 77,
+  "Descripcion": "Silla para arbitro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 78,
+  "Descripcion": "Tablas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 79,
+  "Descripcion": "Remos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 80,
+  "Descripcion": "Rodillos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 81,
+  "Descripcion": "Ruedas con volante",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 82,
+  "Descripcion": "Siluetas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 83,
+  "Descripcion": "Rampas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 84,
+  "Descripcion": "Pedaleras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 85,
+  "Descripcion": "Espaldares",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 86,
+  "Descripcion": "Mesas de Juegos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 87,
+  "Descripcion": "Modulos informe",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 88,
+  "Descripcion": "Ciranto cerrado",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 89,
+  "Descripcion": "Equipos de Onda Corta",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 90,
+  "Descripcion": "Tocadiscos-band. giradiscos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 91,
+  "Descripcion": "Redes",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 92,
+  "Descripcion": "Compacteras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 93,
+  "Descripcion": "Bombo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 94,
+  "Descripcion": "Caja chayera",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 95,
+  "Descripcion": "Mapotecas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 96,
+  "Descripcion": "Globo Terraqueo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 97,
+  "Descripcion": "Pie de microfono - Otros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 98,
+  "Descripcion": "Vitrola",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 99,
+  "Descripcion": "Woofer",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 100,
+  "Descripcion": "Atril",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 101,
+  "Descripcion": "Videograbadoras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 102,
+  "Descripcion": "Xilofon",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 103,
+  "Descripcion": "Rebobinadoras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 104,
+  "Descripcion": "Catre de camping",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 105,
+  "Descripcion": "Pizarron",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 106,
+  "Descripcion": "Home Theater",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 107,
+  "Descripcion": "Platillos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 108,
+  "Descripcion": "Seguidor de luces",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 109,
+  "Descripcion": "Consola de luces",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 110,
+  "Descripcion": "Reproductor Dvd",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 111,
+  "Descripcion": "Caja acustica - Twistera",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 112,
+  "Descripcion": "Lentes p\/camara fotograficas y otros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 113,
+  "Descripcion": "Flash todo tipo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 114,
+  "Descripcion": "Radiador infrarojo para sonido",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 115,
+  "Descripcion": "Cargador multiple para receptores",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 116,
+  "Descripcion": "Palo de hockey",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 117,
+  "Descripcion": "Dispositivo DVR",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 118,
+  "Descripcion": "Guiro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 119,
+  "Descripcion": "Caminador eliptico",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 120,
+  "Descripcion": "Cajon peruano",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 121,
+  "Descripcion": "Dimmer Packs",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 122,
+  "Descripcion": "Maquina de Humo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 123,
+  "Descripcion": "Viseras Rotativas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 124,
+  "Descripcion": "Mp3",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 125,
+  "Descripcion": "Mp4",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 126,
+  "Descripcion": "Mp5",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 127,
+  "Descripcion": "Banderas ceremonias",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 128,
+  "Descripcion": "Caja China",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 129,
+  "Descripcion": "Huevo ritmico",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 130,
+  "Descripcion": "Afuche Cabasa",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 131,
+  "Descripcion": "Cascabelero",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 132,
+  "Descripcion": "Celesta",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 133,
+  "Descripcion": "Kazoo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 134,
+  "Descripcion": "Cencerros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 135,
+  "Descripcion": "Metalofon",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 136,
+  "Descripcion": "Timbaleta",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 137,
+  "Descripcion": "Maracas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 138,
+  "Descripcion": "Repique",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 139,
+  "Descripcion": "Chines",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 140,
+  "Descripcion": "Charango",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 141,
+  "Descripcion": "Caseta",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 142,
+  "Descripcion": "Pizarra Digital",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 143,
+  "Descripcion": "Metronomo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 144,
+  "Descripcion": "Bloque triple vertical",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 145,
+  "Descripcion": "Caja Lexsen",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 146,
+  "Descripcion": "Manguera Proel",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 147,
+  "Descripcion": "Acordeon a Piano",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 148,
+  "Descripcion": "Sistema de Cine digital",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 149,
+  "Descripcion": "Planetarios Digitales",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 150,
+  "Descripcion": "Casco realidad virtual",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 151,
+  "Descripcion": "Consolas - Juegos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 152,
+  "Descripcion": "Zoom",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 153,
+  "Descripcion": "Buffer",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 154,
+  "Descripcion": "Pantalla Para proyector",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 155,
+  "Descripcion": "Rototon",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 156,
+  "Descripcion": "Visor Oculus",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 157,
+  "Descripcion": "Sist. Microf.inhal.c\/recep.y transmisor",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 158,
+  "Descripcion": "Led Multitouch - mini pc",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 159,
+  "Descripcion": "Proyector interactivo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 160,
+  "Descripcion": "Estaciones varias p\/gimnasia",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 161,
+  "Descripcion": "Platea Circular",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 162,
+  "Descripcion": "Cajas Directas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 163,
+  "Descripcion": "D.V.R",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 164,
+  "Descripcion": "Splitter",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 165,
+  "Descripcion": "Extensor VGA",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 166,
+  "Descripcion": "BOOSTER",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 167,
+  "Descripcion": "Escalador de Video",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 168,
+  "Descripcion": "DIFUSOR P\/FLASH",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 173,
+  "Descripcion": "CRUCIJUEGOS PARA PLAZAS PUBLICAS",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 435,
+  "Especie": 174,
+  "Descripcion": "TAPETE DANZA Y OTROS",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 1,
+  "Descripcion": "Cpu",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 2,
+  "Descripcion": "Monitor",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 3,
+  "Descripcion": "UPS",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 4,
+  "Descripcion": "Impresora",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 5,
+  "Descripcion": "SWITH ADMINISTRABLE",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 6,
+  "Descripcion": "DISCO RIGIDO SERVER, EXTERNO, BACK UP",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 7,
+  "Descripcion": "ROUTER - FIREWALL GATE - ACCESS POINT",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 8,
+  "Descripcion": "IMPRESORA TERMICA O TERMO FUSION",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 9,
+  "Descripcion": "Scanners",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 10,
+  "Descripcion": "ACCESORIOS CONECTIVIDAD (UTP, INHALAMBRICA, FIBRA OPTICA, ETC)",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 11,
+  "Descripcion": "Zip",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 13,
+  "Descripcion": "Servidor",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 14,
+  "Descripcion": "Notebook",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 18,
+  "Descripcion": "Plotters",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 19,
+  "Descripcion": "Emulador",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 35,
+  "Descripcion": "Palm",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 38,
+  "Descripcion": "Rack",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 39,
+  "Descripcion": "Joytick digital",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 40,
+  "Descripcion": "Media converter 10\/100 amp",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 41,
+  "Descripcion": "Tablet",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 42,
+  "Descripcion": "Teclado Digital",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 43,
+  "Descripcion": "Dispositivos informaticos de seguridad",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 44,
+  "Descripcion": "PLC",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 45,
+  "Descripcion": "kit de captura digital",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 46,
+  "Descripcion": "Transceiver",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 47,
+  "Descripcion": "Graficador en relieve",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 48,
+  "Descripcion": "Magnificador de imagen",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 49,
+  "Descripcion": "Dock P\/Table Pc",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 50,
+  "Descripcion": "Patchera",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 51,
+  "Descripcion": "Equipos Almacenamiento de Datos",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 52,
+  "Descripcion": "Ipod",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 53,
+  "Descripcion": "Pen Drive criptografico",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 54,
+  "Descripcion": "DATA STORAGE  (ALM. USB DATOS)",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 436,
+  "Especie": 55,
+  "Descripcion": "Labdisc (Recolector de datos)",
+  "Vida Util": "4",
+  "Amortizacion Anual": "25"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 1,
+  "Descripcion": "Alacena",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 2,
+  "Descripcion": "Armario - Gabinete",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 3,
+  "Descripcion": "Banco - Banquetas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 4,
+  "Descripcion": "Biblioteca",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 5,
+  "Descripcion": "Juegos escritorio - Centro de mesas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 6,
+  "Descripcion": "Cocinas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 7,
+  "Descripcion": "Estante",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 8,
+  "Descripcion": "Fichero",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 9,
+  "Descripcion": "Mesas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 10,
+  "Descripcion": "Heladera",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 11,
+  "Descripcion": "Mostrador - Exhibidor - Vitrina",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 12,
+  "Descripcion": "Perchero",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 13,
+  "Descripcion": "Portaplano - Baul",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 14,
+  "Descripcion": "Silla",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 15,
+  "Descripcion": "Sillon",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 16,
+  "Descripcion": "Tablero de Dibujo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 17,
+  "Descripcion": "Escritorios",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 18,
+  "Descripcion": "Mesones",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 19,
+  "Descripcion": "Repisa - Esquinero - Separadores- Botiquin",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 20,
+  "Descripcion": "Cajas de seguridad",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 21,
+  "Descripcion": "Anafes",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 22,
+  "Descripcion": "Aplique",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 23,
+  "Descripcion": "Araña",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 24,
+  "Descripcion": "Candelabros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 25,
+  "Descripcion": "Colgantes",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 26,
+  "Descripcion": "Disyuntor",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 27,
+  "Descripcion": "Farol",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 28,
+  "Descripcion": "Lamparas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 30,
+  "Descripcion": "Plafon",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 31,
+  "Descripcion": "Reflector",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 32,
+  "Descripcion": "Calefactor",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 33,
+  "Descripcion": "Calorama",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 34,
+  "Descripcion": "Caloventor",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 35,
+  "Descripcion": "Estufas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 36,
+  "Descripcion": "Leños a gas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 37,
+  "Descripcion": "Manta calefactor",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 39,
+  "Descripcion": "Aire acondicionado",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 40,
+  "Descripcion": "Extractor",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 41,
+  "Descripcion": "Renovador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 42,
+  "Descripcion": "Turbocirculador",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 43,
+  "Descripcion": "Ventilador",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 44,
+  "Descripcion": "Fotocopiadoras- Duplicadoras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 45,
+  "Descripcion": "Maquina de calcular",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 46,
+  "Descripcion": "Maquina de escribir",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 47,
+  "Descripcion": "Mimeografo - Heliograficas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 48,
+  "Descripcion": "Numeradoras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 49,
+  "Descripcion": "Perforadoras de cheques y Tarjetas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 50,
+  "Descripcion": "Planigrafos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 51,
+  "Descripcion": "Maquina Ensachetadora- Plastificadora",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 52,
+  "Descripcion": "Maquina Ingletadora",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 53,
+  "Descripcion": "Rotraprint",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 54,
+  "Descripcion": "Procesador de Matices y Copyrapid",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 55,
+  "Descripcion": "Maquina de Sellar",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 56,
+  "Descripcion": "Timbradora",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 58,
+  "Descripcion": "Cajones - Cajoneras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 59,
+  "Descripcion": "Maquinas de Contar Billetes",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 60,
+  "Descripcion": "Destructoras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 61,
+  "Descripcion": "Detectoras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 63,
+  "Descripcion": "Ultravioleta",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 64,
+  "Descripcion": "Mastil - Urnas - Asta Banderas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 65,
+  "Descripcion": "Mesadas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 66,
+  "Descripcion": "Modular",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 67,
+  "Descripcion": "Microondas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 68,
+  "Descripcion": "Pizarron, pizarra de oficina",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 69,
+  "Descripcion": "Placard",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 70,
+  "Descripcion": "Tarjeteros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 71,
+  "Descripcion": "Anilladora",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 72,
+  "Descripcion": "Rotafolios - Riveteadora - Rotuladora",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 73,
+  "Descripcion": "Aireador",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 74,
+  "Descripcion": "Salamandra",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 75,
+  "Descripcion": "Purificador",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 76,
+  "Descripcion": "Escenarios portatiles",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 78,
+  "Descripcion": "Radiador de aceite",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 79,
+  "Descripcion": "Teleimpresora",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 80,
+  "Descripcion": "Apoya libros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 81,
+  "Descripcion": "Altar de madera",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 82,
+  "Descripcion": "Vanitori",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 83,
+  "Descripcion": "Comodas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 84,
+  "Descripcion": "Dresoir",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 85,
+  "Descripcion": "campana metal",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 86,
+  "Descripcion": "Prensa copiadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 88,
+  "Descripcion": "Lava vajillas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 89,
+  "Descripcion": "Lockers (tipo armarios)",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 90,
+  "Descripcion": "Biombos y otros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 91,
+  "Descripcion": "Porta Cpu rodante",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 92,
+  "Descripcion": "Vasera",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 94,
+  "Descripcion": "Aspiradoras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 95,
+  "Descripcion": "Cafetera electrica",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 96,
+  "Descripcion": "Enceradora",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 97,
+  "Descripcion": "Termotanques - Calefones",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 98,
+  "Descripcion": "Lustraspiradora",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 99,
+  "Descripcion": "Bebederos - dispenser",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 100,
+  "Descripcion": "Molinillo de café",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 101,
+  "Descripcion": "Mesa para Planchar",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 102,
+  "Descripcion": "Mesa para manicura",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 103,
+  "Descripcion": "Horno electrico",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 104,
+  "Descripcion": "Abrochadora industrial",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 105,
+  "Descripcion": "Pava electrica",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 106,
+  "Descripcion": "Black out vinilico",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 107,
+  "Descripcion": "Fregadora",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 108,
+  "Descripcion": "Equipos led",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 109,
+  "Descripcion": "Limpiadora a Vapor",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 437,
+  "Especie": 110,
+  "Descripcion": "CAMBIADOR PARA BEBES",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 1,
+  "Descripcion": "Criquet saca caja hidraulica",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 2,
+  "Descripcion": "Agujereadora de todo tipo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 3,
+  "Descripcion": "Analizadores ( Bujias y otros)",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 4,
+  "Descripcion": "Aparejo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 5,
+  "Descripcion": "Arenadora chica",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 6,
+  "Descripcion": "Aspersor riego",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 7,
+  "Descripcion": "Centrador de disco de embrague",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 8,
+  "Descripcion": "Bigornia",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 9,
+  "Descripcion": "Bombas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 10,
+  "Descripcion": "Brocas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 11,
+  "Descripcion": "Caja de herramientas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 12,
+  "Descripcion": "Caldera chica",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 13,
+  "Descripcion": "Cargador de baterias",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 16,
+  "Descripcion": "Cepilladora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 19,
+  "Descripcion": "Coloreadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 21,
+  "Descripcion": "Compresores",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 23,
+  "Descripcion": "Alineadora Neumaticos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 24,
+  "Descripcion": "Desllantadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 25,
+  "Descripcion": "Dobladoras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 26,
+  "Descripcion": "Electrobombas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 27,
+  "Descripcion": "Electroimanes",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 30,
+  "Descripcion": "Equipo de sonido",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 32,
+  "Descripcion": "Balanceadora Neumaticos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 33,
+  "Descripcion": "Escopleadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 34,
+  "Descripcion": "Esmeriladora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 35,
+  "Descripcion": "Fertilizadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 36,
+  "Descripcion": "Fraguas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 37,
+  "Descripcion": "Fresadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 38,
+  "Descripcion": "Gato mecanico",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 39,
+  "Descripcion": "Generador de todo tipo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 41,
+  "Descripcion": "Guillotinas para taller",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 42,
+  "Descripcion": "Hormigonera chica",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 43,
+  "Descripcion": "Hornos de todo tipo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 44,
+  "Descripcion": "Laminadoras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 45,
+  "Descripcion": "Lavadora - Hidrolavadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 46,
+  "Descripcion": "Limadoras electricas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 47,
+  "Descripcion": "Bruñidoras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 48,
+  "Descripcion": "Martillo neumatico",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 49,
+  "Descripcion": "Equipo por electroerosion de hilo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 52,
+  "Descripcion": "Morsa",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 53,
+  "Descripcion": "Motores de combustion interna",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 54,
+  "Descripcion": "Motores electricos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 55,
+  "Descripcion": "Motosierra",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 56,
+  "Descripcion": "Perforadoras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 57,
+  "Descripcion": "Pistola de aire para pintar",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 58,
+  "Descripcion": "Planchadoras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 59,
+  "Descripcion": "Plegadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 60,
+  "Descripcion": "Tronzador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 61,
+  "Descripcion": "Podadora - Bord. - Motoguad.-Desmalezadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 62,
+  "Descripcion": "Prensa",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 63,
+  "Descripcion": "Prensa aros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 64,
+  "Descripcion": "Prensa valvulas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 65,
+  "Descripcion": "Prolongaciones",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 67,
+  "Descripcion": "Remachadoras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 70,
+  "Descripcion": "Secadoras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 71,
+  "Descripcion": "Sierra electrica",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 72,
+  "Descripcion": "Silos - Australianos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 73,
+  "Descripcion": "Soldadoras - Gasogeno",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 74,
+  "Descripcion": "Sopletes",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 75,
+  "Descripcion": "Surtidor",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 76,
+  "Descripcion": "Taladros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 77,
+  "Descripcion": "Tanque de combustible- Agua y otros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 78,
+  "Descripcion": "Tanque isotermico",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 80,
+  "Descripcion": "Tornos de todo tipo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 81,
+  "Descripcion": "Torquimetro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 84,
+  "Descripcion": "Garlopa electrica",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 85,
+  "Descripcion": "Lampara para puesta apunto",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 86,
+  "Descripcion": "Amoladoras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 88,
+  "Descripcion": "Comprimidor de espirales",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 89,
+  "Descripcion": "Rectificadoras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 90,
+  "Descripcion": "Roscadoras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 91,
+  "Descripcion": "Calisuar",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 92,
+  "Descripcion": "Extractor de rulemanes",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 93,
+  "Descripcion": "Cizallas de taller",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 97,
+  "Descripcion": "Lustradoras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 98,
+  "Descripcion": "Pinzas especiales",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 99,
+  "Descripcion": "Rectificador de Corriente",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 101,
+  "Descripcion": "Tableros de Control",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 102,
+  "Descripcion": "Isoladora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 103,
+  "Descripcion": "Despicadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 105,
+  "Descripcion": "Engrampadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 106,
+  "Descripcion": "Lavacoches",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 107,
+  "Descripcion": "Estrujadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 110,
+  "Descripcion": "Maquina Combinada",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 111,
+  "Descripcion": "Completina",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 112,
+  "Descripcion": "Pulidoras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 113,
+  "Descripcion": "Tapicera",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 114,
+  "Descripcion": "Maquina para Broches",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 115,
+  "Descripcion": "Maquina para Dorar",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 117,
+  "Descripcion": "Maquina para redondear",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 119,
+  "Descripcion": "Cilindradora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 120,
+  "Descripcion": "Caladoras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 121,
+  "Descripcion": "Alesometros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 122,
+  "Descripcion": "Afiladoras",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 123,
+  "Descripcion": "Vibrador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 124,
+  "Descripcion": "Lijadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 125,
+  "Descripcion": "Expansor hidraul.\/ neumatico",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 126,
+  "Descripcion": "Bridas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 127,
+  "Descripcion": "Clavadora neumatica",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 128,
+  "Descripcion": "Transportador de angulos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 129,
+  "Descripcion": "Mayetadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 130,
+  "Descripcion": "Selladora de frascos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 131,
+  "Descripcion": "Centrifugas industriales",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 132,
+  "Descripcion": "Escuadradora vera",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 133,
+  "Descripcion": "Grasera neumatica",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 134,
+  "Descripcion": "Mesa de medicion",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 135,
+  "Descripcion": "Medidor de cambios y otros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 136,
+  "Descripcion": "Barreno para madera",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 137,
+  "Descripcion": "Sensores todo tipos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 138,
+  "Descripcion": "Rebajadoras de superficies",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 139,
+  "Descripcion": "Sistema Kroplin",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 140,
+  "Descripcion": "Micro switch neumatico",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 141,
+  "Descripcion": "Microcilindro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 142,
+  "Descripcion": "Montaje cilindro neumat hidraul",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 143,
+  "Descripcion": "Banco de carpintero",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 144,
+  "Descripcion": "Lubricador neumatico",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 145,
+  "Descripcion": "Juego Bloques patron",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 146,
+  "Descripcion": "Bases o soportes magneticos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 147,
+  "Descripcion": "Plano de referencias de granito",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 148,
+  "Descripcion": "Estructura andamios",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 149,
+  "Descripcion": "Cincel 5 puas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 150,
+  "Descripcion": "Tupi",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 151,
+  "Descripcion": "Holladora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 152,
+  "Descripcion": "Mec. p\/desmontar centro de gravedad",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 153,
+  "Descripcion": "Marmol para verificar planitud",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 154,
+  "Descripcion": "Alesadora de bancadas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 155,
+  "Descripcion": "Multibanco para motores",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 156,
+  "Descripcion": "Atornillador Electrico",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 157,
+  "Descripcion": "Mortajadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 158,
+  "Descripcion": "Provador de captores (bobinas, etc)",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 159,
+  "Descripcion": "Malacate",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 160,
+  "Descripcion": "Est. Met. c\/mes. p\/soldar c\/camp. Ext.",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 161,
+  "Descripcion": "Portaherr. Fresad. - Torno- Taladro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 162,
+  "Descripcion": "Bloqueras - Cortadora ladrillos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 163,
+  "Descripcion": "Pistola neumatica",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 164,
+  "Descripcion": "Trepano",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 165,
+  "Descripcion": "Porta Inserto",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 166,
+  "Descripcion": "Kit de Cadenas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 167,
+  "Descripcion": "Kit de Rolos",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 168,
+  "Descripcion": "Desoldador",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 169,
+  "Descripcion": "Roto martillo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 170,
+  "Descripcion": "Cuño",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 171,
+  "Descripcion": "Sistema Giratorio Cremallera y motores",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 172,
+  "Descripcion": "Sistema Rampas y Barandas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 173,
+  "Descripcion": "Pestañadora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 174,
+  "Descripcion": "Banco de trabajo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 175,
+  "Descripcion": "INTERCAMBIADOR DE CALOR",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 176,
+  "Descripcion": "REVOCADORA NEUMATICA",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 438,
+  "Especie": 177,
+  "Descripcion": "DESABOLLADOR ELECTRICO",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 1,
+  "Descripcion": "Amperimetros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 2,
+  "Descripcion": "Anemometros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 3,
+  "Descripcion": "Balanza de todo tipo - Basculas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 4,
+  "Descripcion": "Barometros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 5,
+  "Descripcion": "Binoculares",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 6,
+  "Descripcion": "Brujulas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 7,
+  "Descripcion": "Calibres de todo tipo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 8,
+  "Descripcion": "Compases de todo tipo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 9,
+  "Descripcion": "Decibelimetros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 10,
+  "Descripcion": "Densimetros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 11,
+  "Descripcion": "Panchuquera",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 12,
+  "Descripcion": "Espectografos de todo tipo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 13,
+  "Descripcion": "Estacion meteorologica",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 14,
+  "Descripcion": "Geotermometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 15,
+  "Descripcion": "Goneometros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 16,
+  "Descripcion": "Heliofanografos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 17,
+  "Descripcion": "Jalones",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 18,
+  "Descripcion": "Lisimetro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 19,
+  "Descripcion": "Lupas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 20,
+  "Descripcion": "Manometros Manifold",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 21,
+  "Descripcion": "Cama",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 22,
+  "Descripcion": "Miras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 23,
+  "Descripcion": "Multimetro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 24,
+  "Descripcion": "Nivel",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 25,
+  "Descripcion": "Osciloscopio",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 26,
+  "Descripcion": "Palpadores",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 27,
+  "Descripcion": "Parrilla antieolica",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 28,
+  "Descripcion": "Peine de rosca",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 29,
+  "Descripcion": "Piranografo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 30,
+  "Descripcion": "Pirometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 31,
+  "Descripcion": "Planimetros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 32,
+  "Descripcion": "Plantillas de todo tipo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 33,
+  "Descripcion": "Pluviometros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 34,
+  "Descripcion": "Reloj comparador",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 35,
+  "Descripcion": "Relojes",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 36,
+  "Descripcion": "Sismografos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 37,
+  "Descripcion": "Telegeotermografos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 38,
+  "Descripcion": "Telescopios",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 39,
+  "Descripcion": "Teodolito",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 40,
+  "Descripcion": "Termografos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 41,
+  "Descripcion": "Termohidrogafos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 42,
+  "Descripcion": "Termometros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 43,
+  "Descripcion": "Tester",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 44,
+  "Descripcion": "Tripodes",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 45,
+  "Descripcion": "Vacuometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 46,
+  "Descripcion": "Veleta",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 47,
+  "Descripcion": "Voltimetro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 48,
+  "Descripcion": "Zondas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 50,
+  "Descripcion": "Grabador de Neumaticos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 51,
+  "Descripcion": "Gabinete estanco - caja cdo.",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 53,
+  "Descripcion": "Cilindros de gas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 55,
+  "Descripcion": "Estandarte",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 56,
+  "Descripcion": "Exprimidor",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 57,
+  "Descripcion": "Garrafas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 60,
+  "Descripcion": "Tornillo micrometrico",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 61,
+  "Descripcion": "Licuadora",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 63,
+  "Descripcion": "Ojo de buey telemecanique",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 64,
+  "Descripcion": "Papeleros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 65,
+  "Descripcion": "Desmoldadora",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 66,
+  "Descripcion": "Plato para torno",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 67,
+  "Descripcion": "Maquina de coser",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 69,
+  "Descripcion": "Tachos de almacenamiento y otros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 70,
+  "Descripcion": "Pico lanzador de bronce",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 71,
+  "Descripcion": "Batidora-Procesadora",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 73,
+  "Descripcion": "Galgas patrones",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 74,
+  "Descripcion": "Maquina de cortar cabellos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 75,
+  "Descripcion": "Secarropas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 76,
+  "Descripcion": "Planchas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 77,
+  "Descripcion": "Maquinas de tejer",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 78,
+  "Descripcion": "Cronometros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 79,
+  "Descripcion": "Pailas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 80,
+  "Descripcion": "Secamanos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 81,
+  "Descripcion": "Tapadoras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 82,
+  "Descripcion": "Temporizador",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 83,
+  "Descripcion": "Calentador - Quemador",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 84,
+  "Descripcion": "Maquinas de fideos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 85,
+  "Descripcion": "Pesas de todo tipo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 86,
+  "Descripcion": "Punta giratoria p\/torno",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 87,
+  "Descripcion": "Altimetro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 88,
+  "Descripcion": "Arquitectografo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 89,
+  "Descripcion": "Cubas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 90,
+  "Descripcion": "Camaras de distintos tipos de taller",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 91,
+  "Descripcion": "Comparador",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 92,
+  "Descripcion": "Contador de distintos tipos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 93,
+  "Descripcion": "Contrapesas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 94,
+  "Descripcion": "Controladores",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 95,
+  "Descripcion": "Cromatografos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 96,
+  "Descripcion": "Macrometros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 97,
+  "Descripcion": "Cortadoras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 98,
+  "Descripcion": "Dinamomentros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 99,
+  "Descripcion": "morteros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 100,
+  "Descripcion": "Kit varios",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 101,
+  "Descripcion": "Megometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 102,
+  "Descripcion": "Vattimetro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 103,
+  "Descripcion": "Odometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 104,
+  "Descripcion": "Pantografo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 105,
+  "Descripcion": "Otoscopio",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 106,
+  "Descripcion": "Oximetro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 107,
+  "Descripcion": "Medidor Presion  sistema de Inyeccion",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 108,
+  "Descripcion": "Cutter 2 1\/2 litro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 109,
+  "Descripcion": "Pizon distintos tipos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 110,
+  "Descripcion": "Planchas calefactor",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 111,
+  "Descripcion": "Reductores",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 112,
+  "Descripcion": "Refractometros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 113,
+  "Descripcion": "Tacometros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 114,
+  "Descripcion": "Tallimetros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 115,
+  "Descripcion": "Telurimetros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 116,
+  "Descripcion": "Termohigografo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 117,
+  "Descripcion": "Termofusor",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 118,
+  "Descripcion": "Termocontrolador",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 119,
+  "Descripcion": "Taquimetro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 120,
+  "Descripcion": "Turbidimetro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 121,
+  "Descripcion": "Vibroinmersor",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 122,
+  "Descripcion": "Videoscopio",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 123,
+  "Descripcion": "Secador de cabello",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 124,
+  "Descripcion": "Distanciometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 125,
+  "Descripcion": "Durometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 126,
+  "Descripcion": "Empalmadora",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 127,
+  "Descripcion": "Encabezadora",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 128,
+  "Descripcion": "Esderometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 129,
+  "Descripcion": "Espirometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 130,
+  "Descripcion": "Estereoscopio",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 131,
+  "Descripcion": "Estatometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 132,
+  "Descripcion": "Frecuenciometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 133,
+  "Descripcion": "Fuentes de distintos tipos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 134,
+  "Descripcion": "Gasometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 135,
+  "Descripcion": "Geometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 136,
+  "Descripcion": "Galvanometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 137,
+  "Descripcion": "Goniometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 138,
+  "Descripcion": "Glucometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 139,
+  "Descripcion": "Equipo prueba y limpieza de inyectores",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 140,
+  "Descripcion": "Hidrometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 141,
+  "Descripcion": "Humometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 142,
+  "Descripcion": "Indicador de temperatura",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 143,
+  "Descripcion": "Inductometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 144,
+  "Descripcion": "Fleximetro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 145,
+  "Descripcion": "Floculimetro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 146,
+  "Descripcion": "Flotametro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 147,
+  "Descripcion": "Flujimetro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 148,
+  "Descripcion": "Flumiter",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 149,
+  "Descripcion": "Freidora",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 150,
+  "Descripcion": "Cisternas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 151,
+  "Descripcion": "Clorador",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 152,
+  "Descripcion": "Tecnigrafos - Tecnografos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 153,
+  "Descripcion": "Compas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 154,
+  "Descripcion": "Paralelografo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 155,
+  "Descripcion": "Megatoscopio",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 156,
+  "Descripcion": "Lectora cartones",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 157,
+  "Descripcion": "Lectora metrologico",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 158,
+  "Descripcion": "Juego de bolillas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 159,
+  "Descripcion": "Depiladores",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 160,
+  "Descripcion": "Turbinas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 161,
+  "Descripcion": "Balancines",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 162,
+  "Descripcion": "Cortadora de plasma y otros (laser)",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 163,
+  "Descripcion": "Ensayo de traccion",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 164,
+  "Descripcion": "Ensayo de desgaste",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 165,
+  "Descripcion": "Detector de gases",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 166,
+  "Descripcion": "Baroaltimetro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 167,
+  "Descripcion": "Extensometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 168,
+  "Descripcion": "Frenos de corrientes parasitas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 169,
+  "Descripcion": "Graforegistradores - Varios",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 170,
+  "Descripcion": "Hidrografo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 171,
+  "Descripcion": "Cuenta ganado",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 172,
+  "Descripcion": "Molinetes",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 173,
+  "Descripcion": "Pendulos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 174,
+  "Descripcion": "Permeametro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 175,
+  "Descripcion": "Banco para inyectores",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 176,
+  "Descripcion": "Filtros para fluidos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 177,
+  "Descripcion": "Trampas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 178,
+  "Descripcion": "Registradores de presion",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 179,
+  "Descripcion": "Resistivimetro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 180,
+  "Descripcion": "Rotametro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 181,
+  "Descripcion": "Rugosimetro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 182,
+  "Descripcion": "Tanque evaporador",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 183,
+  "Descripcion": "Variadores varios",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 184,
+  "Descripcion": "Vibradores varios",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 185,
+  "Descripcion": "Ceniceros de pie",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 186,
+  "Descripcion": "Imanografo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 187,
+  "Descripcion": "Disipadores",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 188,
+  "Descripcion": "Reguladores varios",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 189,
+  "Descripcion": "Monturas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 191,
+  "Descripcion": "Escaleras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 192,
+  "Descripcion": "Mochilas - Pintar  - Pulver. - Fumigar",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 193,
+  "Descripcion": "Pisos especiales",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 196,
+  "Descripcion": "Medidor campo electrico - magnetico",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 197,
+  "Descripcion": "Electrovalvulas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 198,
+  "Descripcion": "Mocrocontroladores",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 199,
+  "Descripcion": "Sistema entren robot movil",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 200,
+  "Descripcion": "Fototacometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 201,
+  "Descripcion": "Med, regist calidad electrica",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 202,
+  "Descripcion": "Lector de huellas - Cod. Barras - etc",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 203,
+  "Descripcion": "Tijera hidraulica multi prop",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 204,
+  "Descripcion": "Invernaculos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 206,
+  "Descripcion": "Vaporieras industriales",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 207,
+  "Descripcion": "Piletas de fibra",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 208,
+  "Descripcion": "Luxometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 209,
+  "Descripcion": "Caballetes metalicos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 210,
+  "Descripcion": "Transcodificador (PLC y otros)",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 211,
+  "Descripcion": "Evaporador para aire acond aut.",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 212,
+  "Descripcion": "Plancha p\/cabello",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 213,
+  "Descripcion": "Base magnetica",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 214,
+  "Descripcion": "Identadora",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 215,
+  "Descripcion": "Trasmisor de presion",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 216,
+  "Descripcion": "Probador de ignicion colgante",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 217,
+  "Descripcion": "RPM y angulo de contacto colgante",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 218,
+  "Descripcion": "Igniscopio de banco",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 219,
+  "Descripcion": "Pestañadora de banco de marmol",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 220,
+  "Descripcion": "Compresimetro para motor",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 221,
+  "Descripcion": "Capacimetro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 222,
+  "Descripcion": "Viscocimetro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 223,
+  "Descripcion": "Maquina para ensayo de resortes",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 224,
+  "Descripcion": "Maquina para ensayo de fatiga",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 225,
+  "Descripcion": "Maquina universal de ensayos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 226,
+  "Descripcion": "Detector de fisuras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 227,
+  "Descripcion": "Maquina ensayo embuticion de chapa",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 228,
+  "Descripcion": "Regla graduada 1 m puente de hilo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 229,
+  "Descripcion": "colector solar parabolico de aluminio",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 230,
+  "Descripcion": "Ase c\/mov universal p\/bombas inyectoras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 231,
+  "Descripcion": "Ordenador de fila",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 232,
+  "Descripcion": "Pulsador electronico",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 233,
+  "Descripcion": "Tablones",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 234,
+  "Descripcion": "Sicrometro digital temp 20º a 60º C",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 235,
+  "Descripcion": "Sistema de entrenamiento hidraulico",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 236,
+  "Descripcion": "Corrales",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 237,
+  "Descripcion": "Equipo de aforo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 238,
+  "Descripcion": "Molinete Hidrometrico",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 239,
+  "Descripcion": "Helices para molinetes",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 240,
+  "Descripcion": "Dispenser jabon - papel y otros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 241,
+  "Descripcion": "Filtros para Agua",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 242,
+  "Descripcion": "Alcoholimetros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 243,
+  "Descripcion": "Coches para bebe",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 244,
+  "Descripcion": "Antorcha por goteo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 246,
+  "Descripcion": "G.P.U. ( Arrancador Bat. Aeronautica)",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 247,
+  "Descripcion": "Banco didactico para Neumatica",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 248,
+  "Descripcion": "Bco. didact. Electromecanico - Electronico",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 249,
+  "Descripcion": "Banco didáctico ensayo motores eléctricos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 250,
+  "Descripcion": "Bco. didact. ensayo mot. Comb. Interna",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 251,
+  "Descripcion": "Bco. didact. Ensayo panael solar",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 253,
+  "Descripcion": "Somiers",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 254,
+  "Descripcion": "Juego de dormitorio",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 255,
+  "Descripcion": "Sillon peluquero",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 256,
+  "Descripcion": "Lavarropas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 257,
+  "Descripcion": "Maquina Picar Carne y otras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 258,
+  "Descripcion": "Juguera Electrica",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 259,
+  "Descripcion": "Tostadora Electrica",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 260,
+  "Descripcion": "Estacion Total",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 261,
+  "Descripcion": "Camara Reflex o Digitales",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 262,
+  "Descripcion": "Pirograbadores varios",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 263,
+  "Descripcion": "Vaporizador de Pie",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 264,
+  "Descripcion": "Estampadora Plana",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 265,
+  "Descripcion": "Contenedor Metalicos y otros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 266,
+  "Descripcion": "Pistola de calor digital",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 267,
+  "Descripcion": "Cajas estudios opticos, magneticos, elect",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 268,
+  "Descripcion": "Cajas p\/calorimetria term estaticos, fluid",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 269,
+  "Descripcion": "Caja optica , fisica proy. Modular",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 270,
+  "Descripcion": "Caja p\/exp cinematica y dinamica",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 271,
+  "Descripcion": "Caja p\/aptitud y aplicaciones",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 272,
+  "Descripcion": "Caja p\/proyectos tecnologicos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 273,
+  "Descripcion": "Conjuntos cuerpos geometricos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 274,
+  "Descripcion": "Disp. Perfiles quemad. sup. c\/disp. Mot.",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 275,
+  "Descripcion": "Conj. Mat. p\/act de geom. Plana, trigon.",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 276,
+  "Descripcion": "Conj mat activ geometria plana",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 277,
+  "Descripcion": "Conjuntos mod. p\/matemat. Interactiva",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 278,
+  "Descripcion": "Modulo ctral. ctrol. seg., consola, tablero",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 279,
+  "Descripcion": "Modulo p\/control con mesada",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 280,
+  "Descripcion": "Modulo activ. Exp desmostrativa grupal",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 281,
+  "Descripcion": "Modulo p\/trabajos grupales experim.",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 282,
+  "Descripcion": "Modulo p\/trabajos especiales, lavados",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 283,
+  "Descripcion": "Caja p\/estudio propiead de la materia",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 284,
+  "Descripcion": "Caja p\/estudios fenom quimicos, biolog.",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 285,
+  "Descripcion": "Conj. Proyect. Mod. Exp. Didact. Camaras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 286,
+  "Descripcion": "Conj. Componentes vidrio y soportes",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 287,
+  "Descripcion": "Conj. p\/activ. Y aplic. Sistem. Tecnolog.",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 288,
+  "Descripcion": "Conj. p\/desarrollo proyecto tecnologico",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 289,
+  "Descripcion": "Conj. Construc modelos moleculares",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 290,
+  "Descripcion": "Tabla periodica",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 291,
+  "Descripcion": "Comprobador de Baterias",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 292,
+  "Descripcion": "Equipo p\/osmosis inversa",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 293,
+  "Descripcion": "Mesones para cultivos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 294,
+  "Descripcion": "Churrera Industrial",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 295,
+  "Descripcion": "Baños Quimicos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 296,
+  "Descripcion": "Hidromasajeador",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 297,
+  "Descripcion": "Telemetro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 298,
+  "Descripcion": "Gazebo -",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 299,
+  "Descripcion": "Devanadora de seda y otros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 300,
+  "Descripcion": "Calesita textil o pulpo serigrafico",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 301,
+  "Descripcion": "Impresora Serigrafica",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 302,
+  "Descripcion": "Schablon (Serigrafia)",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 303,
+  "Descripcion": "Bisagras Serigraficas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 304,
+  "Descripcion": "Extractor Abson y otros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 305,
+  "Descripcion": "Plancha c\/sist. Calentamiento",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 306,
+  "Descripcion": "Equipo cuartear muestras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 307,
+  "Descripcion": "Compactador Automatico",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 308,
+  "Descripcion": "Aros Dinamometricos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 309,
+  "Descripcion": "Mordazas p\/aplicación y otras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 310,
+  "Descripcion": "Moldes p\/compactacion",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 311,
+  "Descripcion": "Calentador de cera",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 312,
+  "Descripcion": "Cajas Caniles y otras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 313,
+  "Descripcion": "Batea Acero y otras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 314,
+  "Descripcion": "Magnetometro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 315,
+  "Descripcion": "Cupula Vehiculo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 316,
+  "Descripcion": "Conservadora Termo Electrica",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 317,
+  "Descripcion": "Jaulas todo tipo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 318,
+  "Descripcion": "Barras Antivuelco",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 319,
+  "Descripcion": "Lona Cobertor",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 320,
+  "Descripcion": "Planta Ablandadora de Agua",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 321,
+  "Descripcion": "Turnero",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 322,
+  "Descripcion": "Sistema Rieles y Otros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 323,
+  "Descripcion": "Cabina para uñas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 324,
+  "Descripcion": "Domo de Equipos Inflables",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 325,
+  "Descripcion": "Arrocera Electrica",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 326,
+  "Descripcion": "Transformadores",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 327,
+  "Descripcion": "Cocina Solar",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 328,
+  "Descripcion": "Horno Solar",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 329,
+  "Descripcion": "Maniquies",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 330,
+  "Descripcion": "CORTINAS T\/ROLLER",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 331,
+  "Descripcion": "BOYERO SOLAR",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 332,
+  "Descripcion": "MINIPIMER",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 333,
+  "Descripcion": "CORTINA METALICA",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 334,
+  "Descripcion": "ARO MAGNETICO ACUSTICO",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 335,
+  "Descripcion": "REPOSERAS, MECEDORAS, ETC.",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 439,
+  "Especie": 336,
+  "Descripcion": "SOMBRILLAS, PARASOLES",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 1,
+  "Descripcion": "Bayoneta",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 3,
+  "Descripcion": "Carabinas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 6,
+  "Descripcion": "Escopeta",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 7,
+  "Descripcion": "Espada",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 8,
+  "Descripcion": "Esposas",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 9,
+  "Descripcion": "Fusil",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 10,
+  "Descripcion": "Lanza gases",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 11,
+  "Descripcion": "Morteros",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 12,
+  "Descripcion": "Pistola ametralladora",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 13,
+  "Descripcion": "Pistola",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 15,
+  "Descripcion": "Revolver",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 16,
+  "Descripcion": "Rifle",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 18,
+  "Descripcion": "Escudos Antitumultos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 19,
+  "Descripcion": "Chalecos antibalas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 20,
+  "Descripcion": "Cachiporras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 21,
+  "Descripcion": "Mascaras",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 22,
+  "Descripcion": "Sable",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 23,
+  "Descripcion": "Baston antimotines",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 24,
+  "Descripcion": "Matafuegos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 25,
+  "Descripcion": "Luces de emergencias",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 26,
+  "Descripcion": "Alarmas",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 27,
+  "Descripcion": "Sensor de humo y otros",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 28,
+  "Descripcion": "Tanque de Buceo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 29,
+  "Descripcion": "Chaleco compensador y equipo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 30,
+  "Descripcion": "Regulador tanque de buceo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 31,
+  "Descripcion": "Arnes de buceo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 32,
+  "Descripcion": "Cascos antitumultos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 33,
+  "Descripcion": "Detectores varios",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 34,
+  "Descripcion": "Kit antitumultos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 35,
+  "Descripcion": "Conos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 36,
+  "Descripcion": "Ducha Lava ojos",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 37,
+  "Descripcion": "Sirena",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 38,
+  "Descripcion": "Cinturones de seguridad",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 39,
+  "Descripcion": "Equipo de Respiración",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 40,
+  "Descripcion": "Cesta Aerea",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 41,
+  "Descripcion": "Sistema contro de acceso",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 42,
+  "Descripcion": "Kit de Vigilancia",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 43,
+  "Descripcion": "Traje Quimico Encapsulado",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 44,
+  "Descripcion": "SISTEMAS DE CAMARAS DE SEGURIDAD",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 45,
+  "Descripcion": "GARITA",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 46,
+  "Descripcion": "TRAJE SEGURIDAD ESPECIAL",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 47,
+  "Descripcion": "KIT FORESTAL DE ATAQUE RAPIDO",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 441,
+  "Especie": 48,
+  "Descripcion": "SISTEMA CONTRA INCENDIOS",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 451,
+  "Especie": 1,
+  "Descripcion": "Colecciones",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 451,
+  "Especie": 2,
+  "Descripcion": "Diccionarios",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 451,
+  "Especie": 3,
+  "Descripcion": "Enciclopedias",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 451,
+  "Especie": 4,
+  "Descripcion": "Libros",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 451,
+  "Especie": 5,
+  "Descripcion": "Revistas de epoca",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 451,
+  "Especie": 6,
+  "Descripcion": "Fasciculos",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 451,
+  "Especie": 7,
+  "Descripcion": "Videos",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 451,
+  "Especie": 8,
+  "Descripcion": "Discos fonoelectricos",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 451,
+  "Especie": 9,
+  "Descripcion": "Peliculas cimematograficas",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 451,
+  "Especie": 10,
+  "Descripcion": "Mapas",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 1,
+  "Descripcion": "Acuarelas",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 2,
+  "Descripcion": "Armas antiguas",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 4,
+  "Descripcion": "Bronces",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 5,
+  "Descripcion": "Ceramicas",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 6,
+  "Descripcion": "Coleccion numismatica",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 7,
+  "Descripcion": "Copas",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 8,
+  "Descripcion": "Cuadros",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 9,
+  "Descripcion": "Dibujos",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 10,
+  "Descripcion": "Documentos historicos",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 11,
+  "Descripcion": "Esculturas",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 12,
+  "Descripcion": "Frescos",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 13,
+  "Descripcion": "Grabados",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 14,
+  "Descripcion": "Granitos",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 15,
+  "Descripcion": "Imagenes",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 16,
+  "Descripcion": "Impresos de epoca",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 17,
+  "Descripcion": "Libros de epoca",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 18,
+  "Descripcion": "Medallas",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 19,
+  "Descripcion": "Oleos",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 20,
+  "Descripcion": "Pasteles",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 21,
+  "Descripcion": "Relojes de epoca",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 22,
+  "Descripcion": "Tallado en madera",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 23,
+  "Descripcion": "Tallado en piedra",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 24,
+  "Descripcion": "Tapicerias",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 25,
+  "Descripcion": "Tejidos de epoca",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 26,
+  "Descripcion": "Templetes",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 27,
+  "Descripcion": "Vestuarios",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 28,
+  "Descripcion": "Yesos",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 29,
+  "Descripcion": "Otros",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 30,
+  "Descripcion": "Floreros",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 31,
+  "Descripcion": "Jarrones",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 32,
+  "Descripcion": "Maderas",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 33,
+  "Descripcion": "Candelabros",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 461,
+  "Especie": 34,
+  "Descripcion": "Maquetas",
+  "Vida Util": "no amortizable"
+ },
+ {
+  "Cuenta": 471,
+  "Especie": 1,
+  "Descripcion": "Burro",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 471,
+  "Especie": 2,
+  "Descripcion": "Caballo",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 471,
+  "Especie": 3,
+  "Descripcion": "Mular",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 471,
+  "Especie": 4,
+  "Descripcion": "Novillo",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 471,
+  "Especie": 5,
+  "Descripcion": "Oveja",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 471,
+  "Especie": 6,
+  "Descripcion": "Perro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 471,
+  "Especie": 7,
+  "Descripcion": "Porcino",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 471,
+  "Especie": 8,
+  "Descripcion": "Tambera",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 471,
+  "Especie": 9,
+  "Descripcion": "Ternero",
+  "Vida Util": "10",
+  "Amortizacion Anual": "10"
+ },
+ {
+  "Cuenta": 471,
+  "Especie": 10,
+  "Descripcion": "Toro",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 471,
+  "Especie": 11,
+  "Descripcion": "Vaca",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 471,
+  "Especie": 12,
+  "Descripcion": "Caprino",
+  "Vida Util": "5",
+  "Amortizacion Anual": "20"
+ },
+ {
+  "Cuenta": 481,
+  "Especie": 1,
+  "Descripcion": "Software",
+  "Vida Util": "3",
+  "Amortizacion Anual": "33,33"
+ },
+ {
+  "Cuenta": 481,
+  "Especie": 2,
+  "Descripcion": "Sistemas Operativos",
+  "Vida Util": "3",
+  "Amortizacion Anual": "33,33"
+ },
+ {
+  "Cuenta": 481,
+  "Especie": 3,
+  "Descripcion": "Licencias",
+  "Vida Util": "3",
+  "Amortizacion Anual": "33,33"
+ },
+ {
+  "Cuenta": 489,
+  "Especie": 1,
+  "Descripcion": "Registro de Marca",
+  "Vida Util": "no amortizable"
+ }
+]

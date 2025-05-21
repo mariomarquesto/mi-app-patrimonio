@@ -1,0 +1,25 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #e0e0e0;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.header-container h2 {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.header-buttons button {
+  margin-left: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.header-buttons input {
+  margin-left: 5px;
+  padding: 5px;
+  width: 50px;
+}

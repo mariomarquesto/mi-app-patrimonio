@@ -1,0 +1,57 @@
+.filter-form-container {
+  background-color: #f8f8f8;
+  padding: 15px;
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.form-row {
+  display: flex;
+  align-items: center;
+  gap: 10px; /* Espacio entre elementos en la fila */
+}
+
+.form-row label {
+  width: 120px; /* Ajusta según sea necesario para alinear las etiquetas */
+  text-align: right;
+  flex-shrink: 0; /* Evita que la etiqueta se encoja */
+}
+
+.form-row input[type="text"],
+.form-row input[type="number"] {
+  padding: 5px;
+  border: 1px solid #ccc;
+  width: 150px; /* Ancho por defecto para los campos de texto/número */
+}
+
+.form-row .description-input {
+  flex-grow: 1; /* Permite que el input de descripción ocupe el espacio restante */
+  width: auto; /* Asegura que no tenga un ancho fijo que lo limite */
+}
+
+.form-row .description-input-large {
+  flex-grow: 1; /* Permite que el input de descripción larga ocupe todo el espacio restante */
+  width: auto; /* Asegura que no tenga un ancho fijo que lo limite */
+}
+
+.numbers-row {
+  flex-wrap: wrap; /* Permite que los elementos se envuelvan si no hay espacio suficiente */
+  gap: 5px; /* Menos espacio entre los campos numéricos y sus checkboxes */
+}
+
+.numbers-row input[type="number"] {
+    width: 60px; /* Ancho específico para los inputs numéricos pequeños */
+}
+
+.numbers-row input[type="checkbox"] {
+    margin-right: 15px; /* Espacio después del checkbox para el siguiente grupo */
+}
+
+/* Para alinear los labels de "Cuenta", "Especie", etc. */
+.numbers-row label {
+    width: auto; /* Ajusta el ancho de las etiquetas en esta fila específica */
+    text-align: left; /* Alinea a la izquierda para esta fila */
+    white-space: nowrap; /* Evita que el texto de la etiqueta se rompa */
+}
