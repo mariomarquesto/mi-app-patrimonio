@@ -24,7 +24,7 @@ function FilterForm({ onSubmit }) {
     checkValor: false,
     mes: '',
     checkMes: false,
-    anio: '',
+    anio: '', // Campo para el año
     checkAnio: false,
     descripcionGeneral: '',
     especieItem: '',
@@ -64,15 +64,19 @@ function FilterForm({ onSubmit }) {
     console.log("Valor de item['Vida Util']:", item["Vida Util"]);
     console.log("Valor de item['Amortizacion Anual']:", item["Amortizacion Anual"]);
     console.log("Valor de item.Cuenta para Dependencia:", item.Cuenta);
+    // Asumiendo que 'item' de itemsData.json puede tener una propiedad 'Año'
+    console.log("Valor de item.Año (si existe):", item.Año);
+
 
     setFormData((prevData) => ({
       ...prevData,
       descripcionDependencia: item.Descripcion || '',
-      dependencia: item.Cuenta || '', // <-- Esta línea fue el último cambio aquí
+      dependencia: item.Cuenta || '',
       cuentaEspecifica: item.Cuenta || '',
       especieItem: item.Especie || '',
       vidaUtil: item["Vida Util"] || '',
-      amortizacionAnual: item["Amortizacion Anual"] || ''
+      amortizacionAnual: item["Amortizacion Anual"] || '',
+      anio: item.Año || prevData.anio // <--- AHORA ACTUALIZA EL CAMPO 'anio'
     }));
     setSuggestions([]);
     setShowSuggestions(false);
@@ -80,8 +84,9 @@ function FilterForm({ onSubmit }) {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    console.log("Datos del formulario a enviar:", formData); // <--- AÑADIDO PARA DEPURACIÓN
     onSubmit(formData);
-    
+
     // Descomenta si quieres limpiar el formulario tras enviar
     setFormData({
       reparticion: '', descripcionReparticion: '', dependencia: '', descripcionDependencia: '',
@@ -91,7 +96,7 @@ function FilterForm({ onSubmit }) {
       valor: '', checkValor: false, mes: '', checkMes: false, anio: '', checkAnio: false,
       descripcionGeneral: '', especieItem: '', vidaUtil: '', amortizacionAnual: ''
     });
-    
+
   };
 
   return (

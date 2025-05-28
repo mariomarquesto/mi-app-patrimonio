@@ -1,0 +1,50 @@
+.pdf-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+  gap: 10px;
+}
+
+.pdf-header-left,
+.pdf-header-right {
+  flex: 1;
+  font-size: 12px;
+}
+
+.pdf-main-title {
+  flex: 1;
+  font-size: 18px;
+  text-align: center;
+  margin: 0;
+}
+
+/* Puedes mantener o personalizar el resto de los estilos existentes */
+.pdf-form-data {
+  margin-bottom: 15px;
+  font-size: 14px;
+}
+
+.pdf-form-data p span {
+  font-weight: bold;
+}
+
+.pdf-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+.pdf-table th,
+.pdf-table td {
+  border: 1px solid #000;
+  padding: 4px;
+  text-align: left;
+}
+
+.pdf-footer {
+  margin-top: 10px;
+  font-size: 13px;
+  font-weight: bold;
+}
